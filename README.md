@@ -1,3 +1,1 @@
-# Tindog
-
-Testing UX/UI Design from Beginer
+TinDog Starting Files
